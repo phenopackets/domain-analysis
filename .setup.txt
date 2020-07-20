@@ -1,7 +1,0 @@
-
-
-1. clone
-2. setup Python version and virtual environment
-3. activate virtual environment
-4. pip install -r requirements.txt
- 
