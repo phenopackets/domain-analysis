@@ -8,13 +8,6 @@ Domain Analysis Document (DAD)
 ===============================
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-   :hidden:
-
-   Contributing
-
 DAD Outline
 ===========
 
@@ -27,6 +20,14 @@ DAD Outline
 - 3
 
 
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+   :hidden:
+
+   Contributing
+   
 ..
   Indices and tables
   ==================

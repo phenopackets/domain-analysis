@@ -28,8 +28,8 @@ To do that you need to follow the steps below. We recommend you do that every ti
 you switch or create a branch to make sure your environment is up to date.
 
 #. Assuming you are using Python virtual environments, and on a Linux like machine, 
-   run ``. venv/bin/activate`` to enter the virtual environment.
-#. Run ``pip install --upgrade -r requirements.txt`` in the root of the Git repository.
+   run ``. venv/bin/activate`` from the repo's root directory to enter the virtual environment.
+#. Run ``pip install --upgrade -r docs/requirements.txt`` in the root of the Git repository.
 #. If you'd like to have live preview of your edits (when they are saved),
    run ``sphinx-reload docs/`` in the root directory. This should perform an initial build, 
    open the home page in your browser, and watch for any saved changes. Any changes will 

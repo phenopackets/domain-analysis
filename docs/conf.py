@@ -30,8 +30,9 @@ author = 'DAD Team'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-'sphinx_rtd_theme'
-, 'recommonmark'
+'sphinx_rtd_theme',
+'recommonmark',
+'rst2pdf.pdfbuilder'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -54,3 +55,6 @@ html_theme = 'sphinx_rtd_theme'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+pdf_documents = [
+('index', u'pdf name', u'Sample doc Title', u'author name')
+]
