@@ -21,10 +21,10 @@ DAD Outline
 - Entities
 
   - Core entities
-    
+
     - Entity X
     - Entity Y
-    
+
   - Other entities
 
 - Phenopackets
