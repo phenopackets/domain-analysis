@@ -11,15 +11,33 @@ Domain Analysis Document (DAD)
 DAD Outline
 ===========
 
-- 1
-- 2
+- Stakeholders
+- Use cases
 
-  - 2.1
-  - 2.2
+  - Driver use cases
+  - Community use cases
 
-- 3
+- Phenotypic data & information
+- Entities
+
+  - Core entities
+
+    - Entity X
+    - Entity Y
+
+  - Other entities
+
+- Phenopackets
+- FHIR
+
+  - Phenotypic data representation in FHIR base specification
+  - FHIR mapping
+
+- Tools and resources
+- Glossary
 
 
+:term:`Some term` is defined in the glossary. 
 
 .. toctree::
    :maxdepth: 2
@@ -27,7 +45,8 @@ DAD Outline
    :hidden:
 
    Contributing
-   
+   glossary
+
 ..
   Indices and tables
   ==================
