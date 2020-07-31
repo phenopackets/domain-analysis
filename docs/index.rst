@@ -1,50 +1,47 @@
-.. Domain Analysis Document documentation master file, created by
-   sphinx-quickstart on Thu Jul 16 11:38:24 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+
+This site is in early development. Please do not link to any specific page on 
+this site other than the home page. Otherwise, your links will likely break as
+the initial content is drafted.
 
 ===============================
-Domain Analysis Document (DAD)
+Phenopackets Domain Analysis
 ===============================
 
-
-DAD Outline
-===========
-
-- Stakeholders
-- Use cases
-
-  - Driver use cases
-  - Community use cases
-
-- Phenotypic data & information
-- Entities
-
-  - Core entities
-
-    - Entity X
-    - Entity Y
-
-  - Other entities
-
-- Phenopackets
-- FHIR
-
-  - Phenotypic data representation in FHIR base specification
-  - FHIR mapping
-
-- Tools and resources
-- Glossary
+This is an effort to document an analysis of the domain modeled in the Phenopackets
+schema, capture additional modeling requirements, and how to address interoperability
+with the FHIR standard.
 
 
-:term:`Some term` is defined in the glossary. 
+Content outline
+===============
+
+- :doc:`Stakeholders <stakeholders>`
+- :doc:`Use cases <usecases>`
+
+  - :doc:`Driver use cases <usecases-driver>`
+  - :doc:`Community use cases <usecases-community>`
+
+- :doc:`Phenotypic information <phenotypic-info>`
+- :doc:`Domain entities <domain-entities>`
+- :doc:`Phenopackets <phenopackets>`
+- :doc:`FHIR <fhir>`
+- :doc:`Resources <resources>`
+- :doc:`Glossary <glossary>`
+
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
    :hidden:
 
-   Contributing
+   stakeholders
+   usecases
+   phenotypic-info
+   domain-entities
+   phenopackets
+   fhir
+   resources
+   contributing
    glossary
 
 ..
