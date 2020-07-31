@@ -1,7 +1,7 @@
 ===========================
 Driver Use Cases
 ===========================
-The following are the driver use cases that will guide the technical deveopment during the current project period. The :doc:`Community use cases <usecases-community>` are additional use cases contributed by the community and could guide community contributions to this project.  
+The following are the driver use cases that will guide the technical deveopment during the current project period. The :doc:`community use cases <usecases-community>` are additional use cases contributed by the community and could guide community contributions to this project.  
 
 Kids First FHIR interoperability and Phenopackets extraction
 ============================================================
