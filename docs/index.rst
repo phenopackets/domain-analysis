@@ -26,7 +26,6 @@ Content outline
 - :doc:`Phenopackets <phenopackets>`
 - :doc:`FHIR <fhir>`
 - :doc:`Resources <resources>`
-- :doc:`Glossary <glossary>`
 
 
 .. toctree::
@@ -41,8 +40,6 @@ Content outline
    phenopackets
    fhir
    resources
-   contributing
-   glossary
 
 ..
   Indices and tables
