@@ -19,9 +19,9 @@
 
 import sphinx_rtd_theme
 
-project = 'Domain Analysis Document'
-copyright = '2020, DAD Team'
-author = 'DAD Team'
+project = 'Phenopackets Domain Analysis'
+copyright = '2020, Phenopackets Domain Analysis Team'
+author = 'Phenopackets Domain Analysis Team'
 
 
 # -- General configuration ---------------------------------------------------
@@ -58,3 +58,8 @@ html_static_path = ['_static']
 pdf_documents = [
 ('index', u'pdf name', u'Sample doc Title', u'author name')
 ]
+
+html_theme_options = {
+    'collapse_navigation': False,
+    'includehidden': True
+}

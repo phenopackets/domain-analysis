@@ -1,6 +1,7 @@
 
-Contributing to the DAD
-=======================
+========================
+Contributing
+========================
 
 Contributing to the DAD will generally be through GitHub pull requests.
 Pull requests must start from the master branch, not another branch.
