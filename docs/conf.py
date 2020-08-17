@@ -56,10 +56,15 @@ html_theme = 'sphinx_rtd_theme'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 pdf_documents = [
-('index', u'pdf name', u'Sample doc Title', u'author name')
+('index', u'PhenopacketsDomainAnalysis', u'Sample doc Title', u'author name')
 ]
 
 html_theme_options = {
     'collapse_navigation': False,
     'includehidden': True
 }
+
+master_doc = 'toc'
+
+pdf_break_level = 1
+pdf_breakside = 'any'

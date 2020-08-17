@@ -1,7 +1,9 @@
 ===========================
 Driver Use Cases
 ===========================
-The following are the driver use cases that will guide the technical deveopment during the current project period. The :doc:`community use cases <usecases-community>` are additional use cases contributed by the community and could guide community contributions to this project.  
+The following are the driver use cases that will guide the technical development during the current project period. The :doc:`community use cases <usecases-community>` are additional use cases contributed by the community and could guide community contributions to this project.
+
+A Driver Use Case represents the same content as a  Community Use Case, but it is primarily developed by the project team for the purpose of guiding the technical development and testing during the project period. These use cases will be based on clinical and research topics provided by the pilot sites, involve interactions with FHIR and Phenopackets technical components, and specify the data flow and end goals. For this project, the Driver Use Cases will mostly be based on existing domain models in Phenopackets and FHIR, and existing terminologies. The primary goal of these use cases is to integrate existing technical solutions rather than evolve any specific one of them. However, in pursuing integration, specific gaps and enhancements will be needed and will be proposed for future development. These use cases will be documented and analyzed within the Domain Analysis Document.
 
 Kids First FHIR interoperability and Phenopackets extraction
 ============================================================
