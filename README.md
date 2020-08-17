@@ -10,3 +10,4 @@ In July of 2019 the NIH issued a notice (NOT-OD-19-122) to encourage investigato
 1. disseminate deliverables and obtain feedback for future development.
 
 The Domain Analysis Document being developed in this GitHub repository addresses goal 3, 4, and provides conceptual and technical guidance for the community in order to enhance the understanding and use of FHIR in clinical research.
+
