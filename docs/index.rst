@@ -20,7 +20,6 @@ In July of 2019 the NIH issued a notice (NOT-OD-19-122) to encourage investigato
     This site is in early development. Please do not link to any specific page on 
     this site other than the home page. Otherwise, your links will likely break as
     the initial content is drafted.
-
 ..
   Indices and tables
   ==================

@@ -4,13 +4,15 @@ TOC
 
 .. toctree::
    :maxdepth: 3
-   :hidden:
+   :glob:
 
    index
    stakeholders
    usecases
    phenotypic-info
+   modeling-principles
    domain-entities
    phenopackets
    fhir
+   fhir-mapping
    resources
