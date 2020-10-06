@@ -68,3 +68,4 @@ master_doc = 'toc'
 
 pdf_break_level = 1
 pdf_breakside = 'any'
+titles_only: True
