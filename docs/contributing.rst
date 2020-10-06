@@ -18,7 +18,9 @@ Perform the following initial steps to setup your environment setup:
 The above are one time steps. Subsequent to that, perform the following steps with each new contribution:
 
 #. Switch to the master branch with ``git checkout master`` if needed.
-#. Perform a ``git pull`` to get the latest changes.
+#. Perform a ``git pull --ff-only`` to get the latest changes.
+   #. If this fails, consult someone on this project before moving forward.
+   #. This means that you had some changes on master that are no longer part of the history of master on GitHub, and it is usually a sign of something gone wrong.
 #. Start a new branch for your changes with ``git checkout -b your-new-branch-name``.
 
 The above will get you setup on a new Git branch for your new contribution.
