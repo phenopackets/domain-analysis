@@ -61,11 +61,11 @@ pdf_documents = [
 
 html_theme_options = {
     'collapse_navigation': False,
-    'includehidden': True
+    'includehidden': False,
+     'titles_only': True
 }
 
 master_doc = 'toc'
 
 pdf_break_level = 1
 pdf_breakside = 'any'
-titles_only: True
