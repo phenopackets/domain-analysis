@@ -12,12 +12,14 @@ Recommended workflow
 +++++++++++++++++++++++++++++++++
 
 #. Identify an in scope domain entity.
-#. Crate a page for it by copying the /domain-entities/_template.rst.off file and naming it following the pattern used by the other file in that same directory.
+#. Create a page for it by copying the /domain-entities/_template.rst.off file and naming it following the pattern used by the other files in that same directory.
 #. Fill in or replace the template's content
 #. Create a GitHub issue for the domain entity to support ongoing discussion of the entity.#. When appropriate, add any needed mapping information according to the mapping workflow (yet to be defined) and build any needed FHIR conformance resources to implement the FHIR representations for the domain element. This is done under the `Core IG repository <https://github.com/phenopackets/core-ig>`_
 #. Any newley developed content for the DAD or the Core IG should be submitted with a GitHub PR for review before merging into the GH master branch.
 
+As part of this workflow, and to facilitate the team's ability to review source material, annotate it, have quick informal comments or questions about it, and to be able to do all this within the context of the original source material, we are copying the source material into a set of Google Docs pages in a folder dedicated for this purpose. As you read through the analysis of the domain entities listed below, you will find various links to comments in these copies as a way to identify and communicate relevant portions of the source content. For example, the Phenopackets Individual and FHIR Patient and Person resource documentation is copied to individual pages and various parts of this content is sited in the analysis of those domain entities. When following any of these links, please be patient until the linked page is fully loaded and the page is scrolled to the specified linked area or comment. 
 
+The folder can be `found here <https://drive.google.com/drive/folders/1rXNPRq-eV4VSiWOdDRSJ3smRMvlmp1QL>`_ and any comments are viewable by all. Join the project's team to be able to comment. However, anyone with a GitHub account should be able to comment on the corresponding issue if they don't have access to these docs as an alternative way for providing feedback.
 
 (Add a page to the "/domain-entities" folder and it will appear in this list.)
 

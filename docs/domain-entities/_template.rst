@@ -22,7 +22,7 @@ The following is an ordered list
 
 #. Back to outer list items 
 
-Notice the indentation and blank lines above `in the source file <https://github.com/phenopackets/domain-analysis/blob/master/docs/domain-entities/_template.rst>`_
+Notice the indentation and blank lines above `in the source file <https://raw.githubusercontent.com/phenopackets/domain-analysis/master/docs/domain-entities/_template.rst>`_
 
 FHIR representation
 +++++++++++++++++++++
