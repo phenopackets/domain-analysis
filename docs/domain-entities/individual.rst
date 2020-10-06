@@ -16,5 +16,14 @@ Survey of existing resources
     -   `Individual <https://phenopackets-schema.readthedocs.io/en/latest/individual.html>`_
 
         - Intended to represent an individual human or other organism.
-        - Concerned with identity, DOB and age, observed and karyotypic sex, and taxonomy.    
+        - Concerned with identity, DOB and age, observed and karyotypic sex, and taxonomy.
+
+-   FHIR has:
+
+    -   `Patient <https://build.fhir.org/patient.html>`_
+        
+        -   Demographics and administrative information about an individual or animal receiving health-related services.
+        -   Created and maintained by each organization providing care.
+        -   It should be understood as a patient role in an organization rather than a representation of a person in the world.
+        -   
 
