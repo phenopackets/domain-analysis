@@ -15,6 +15,8 @@ Although the analysis in the following pages should be based on the domain and h
 
     domain-entities/*
 
+\*Add a page to the */domain-entities* folder and it will appear in the above list.
+
 Recommended workflow
 +++++++++++++++++++++++++++++++++
 
@@ -28,6 +30,6 @@ As part of this workflow, and to facilitate the team's ability to review source 
 
 The folder can be `found here <https://drive.google.com/drive/folders/1rXNPRq-eV4VSiWOdDRSJ3smRMvlmp1QL>`_ and any comments are viewable by all. Each page has a link at the top to the original source of the copied content. Join the project's team to be able to comment. However, anyone with a GitHub account should be able to comment on the corresponding issue if they don't have access to these docs as an alternative way for providing feedback.
 
-(Add a page to the "/domain-entities" folder and it will appear in this list.)
+
 
 
