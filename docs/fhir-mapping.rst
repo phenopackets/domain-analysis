@@ -1,7 +1,10 @@
 FHIR mapping
 ================================
 
-The effort to map aspects of the domain relevant to phenotypic information is starting with identifying and clearly defining the domain entities, their attributes and relationships, etc. before identifying Phenopackets' representation of these elements and how they map to FHIR.
+The FHIR mapping workflow is focused on taking the analysis and recommendations from the :doc:`/domain-entities` 
+
+- :doc:`DE </domain-entities>` 
+
 
 The workflow is based on Google Sheets, GitHub issues, and prototyping the chosen FHIR implementation in the Core IG.
 
