@@ -8,6 +8,13 @@ This section aims to identify these concepts and represent them as modeling enti
 
 Although the analysis in the following pages should be based on the domain and how domain experts understand it rather than how it's modeled in any existing information model, these pages will likely refer to existing representations as a way to identify aspects of the domain that the model intended to represent. Models are usually developed for specific use cases and examining their approach will likely lead us to identifying aspects of the domain that we might not be aware of. However, we are not constrained by the specific definition and modeling decisions from those models. Also, a common modeling error is the "over fitting" of such models to the specific use case or project at hand. This over fitting leads to difficulties with reusing these models for other projects and eventually to the proliferation of over fitted models. This is a major interoperability barrier. In the following pages those models are simply looked at as a tool to identify the underlying domain they are intending to represent and provide one or more alternative representations within the FHIR framework.
 
+..  toctree::
+    :caption: Entity pages
+    :titlesonly:
+    :glob:
+
+    domain-entities/*
+
 Recommended workflow
 +++++++++++++++++++++++++++++++++
 
@@ -23,9 +30,4 @@ The folder can be `found here <https://drive.google.com/drive/folders/1rXNPRq-eV
 
 (Add a page to the "/domain-entities" folder and it will appear in this list.)
 
-..  toctree::
-    :caption: Entity pages
-    :titlesonly:
-    :glob:
 
-    domain-entities/*
