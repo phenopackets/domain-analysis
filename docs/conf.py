@@ -70,5 +70,7 @@ master_doc = 'toc'
 pdf_break_level = 1
 pdf_breakside = 'any'
 
-sphinx:
-    fail_on_warning: true
+sphinx = {
+    'fail_on_warning': True
+}
+    
