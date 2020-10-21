@@ -22,7 +22,7 @@ FHIR allows various resources to reference a document through a `DocumentReferen
 -   `DocumentReference.content.format <https://www.hl7.org/fhir/documentreference-definitions.html#DocumentReference.content.format>`_
 -   `DocumentReference.content.attachment.contentType <https://www.hl7.org/fhir/datatypes-definitions.html#Attachment.contentType>`_
 
-The content of the phenopacket can be base 64 encoded and added to `DocumentReference.content.attachment.data <https://www.hl7.org/fhir/datatypes-definitions.html#Attachment.data>`_
+The content of a phenopacket can be base64 encoded and added to `DocumentReference.content.attachment.data <https://www.hl7.org/fhir/datatypes-definitions.html#Attachment.data>`_
 
 Phenopackets IG representation
 ++++++++++++++++++++++++++++++++
