@@ -73,4 +73,10 @@ pdf_breakside = 'any'
 sphinx = {
     'fail_on_warning': True
 }
-    
+
+# from: https://rackerlabs.github.io/docs-rackspace/tools/rtd-tables.html
+html_context = {
+    'css_files': [
+        '_static/theme_overrides.css',  # override wide tables in RTD theme
+        ],
+     }
