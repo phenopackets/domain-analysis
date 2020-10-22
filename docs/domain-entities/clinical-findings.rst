@@ -13,7 +13,9 @@ Discuss...
 FHIR representation
 +++++++++++++++++++++
 
-Discuss...
+This will be an Observation. It captures phenotypes and other sorts of observations.
+
+We need to review our options for how to use this key/value resource. See: `this guidance <https://www.hl7.org/fhir/observation.html#code-interop>`_
 
 Phenopackets IG representation
 ++++++++++++++++++++++++++++++++

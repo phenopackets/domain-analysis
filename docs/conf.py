@@ -75,6 +75,7 @@ sphinx = {
 }
 
 # from: https://rackerlabs.github.io/docs-rackspace/tools/rtd-tables.html
+# TODO: check this issue: https://github.com/readthedocs/sphinx_rtd_theme/issues/117
 html_context = {
     'css_files': [
         '_static/theme_overrides.css',  # override wide tables in RTD theme

@@ -1,5 +1,6 @@
 /* override table width restrictions */
 /* from: https://rackerlabs.github.io/docs-rackspace/tools/rtd-tables.html */
+/* TODO: check this issue: https://github.com/readthedocs/sphinx_rtd_theme/issues/117 */
 @media screen and (min-width: 767px) {
 
     .wy-table-responsive table td {

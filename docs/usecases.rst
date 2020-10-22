@@ -17,7 +17,6 @@ use cases pages for additional details.
 .. toctree::
    :maxdepth: 3
    :caption: Contents:
-   :hidden:
 
    usecases-driver
    usecases-community
