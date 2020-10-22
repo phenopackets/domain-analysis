@@ -23,4 +23,4 @@ N/A
 Proposed Core IG representation
 +++++++++++++++++++++++++++++++++
 
-We will use the encounter resource and related ones to organize the initial clinical information that led the practitioner to order the laboratory request for UC2. It will be the needed context for what should be extracted into a phenopacket instance that represents the phenotypic information noted during that encounter. 
+We will use the encounter resource and related ones to organize the initial clinical information that led the practitioner to order the laboratory request for UC2. It will be the needed context for what should be extracted into a phenopacket instance that represents the phenotypic information noted during that encounter.

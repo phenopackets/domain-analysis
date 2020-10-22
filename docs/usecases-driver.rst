@@ -238,8 +238,6 @@ A female patient presents to a clinician, who observes several phenotypic featur
     Encephalopathy (HP:0001298)<br>
     Strabismus (HP:0000486)<br>
     Scoliosis (HP:0002650)</td></tr>
-    <tr><td></td><td></td></tr>
-
     <tr><td>Genetic test ordered</td><td>Exome</td></tr>
     </tbody>
     </table>

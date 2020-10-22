@@ -1,4 +1,4 @@
-Clinical condition, diagnosis, etc.
+Condition, diagnosis, etc.
 ====================================
 
 Define entity....
