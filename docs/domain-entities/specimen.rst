@@ -1,4 +1,4 @@
-Clinical specimens
+Specimen
 ==============================
 
 Define entity....
