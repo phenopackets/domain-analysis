@@ -5,7 +5,7 @@ Identifiers are a critical part of linking an information system to entities in 
 
 
 
-**GitHub issue**: `issue <https://github.com/phenopackets/domain-analysis/issues/8>`_
+**GitHub issue**: `ISSUE <https://github.com/phenopackets/domain-analysis/issues/8>`_
 
 Phenopackets representation
 ++++++++++++++++++++++++++++++

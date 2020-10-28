@@ -5,7 +5,7 @@ This page is for the analysis of a phenopacket. The term *phenopacket* here mean
 
 What is the context of a phenopacket? What does it mean to extract or submit a phenopacket from/to an EHR? Everything in an EHR is usually linked to some provider, on a specific date, during an encounter, asserted by a provider, etc. All this context is missing from the Phenopackets schema. How can this context be made up for or ignored in an EHR? Intuitively, it's not likely to be able to *enter* a phenopacket into an EHR without it being attested to by a provider, during an encounter, etc.  Also, the various components of a phenopacket as defined by the Phenopackets schema are likely to be instantiated multiple times, even in duplicate, in an EHR during various encounters for the same patient and same clinical conditions. Also, the set of instantiated parts of the phenopacket schema might vary from one encounter to another. For example, provider x on date y might say a patient has phenopacket instance p1 but on another date have a different combination of instances to form phenopacket p2. How will all this be mappable to the simpler use of Phenopackets outside the context of EHR, providers, visits, purpose, etc.? 
 
-**GitHub issue**: `issue <https://github.com/phenopackets/domain-analysis/issues/12>`_
+**GitHub issue**: `ISSUE <https://github.com/phenopackets/domain-analysis/issues/12>`_
 
 Phenopackets representation
 ++++++++++++++++++++++++++++++

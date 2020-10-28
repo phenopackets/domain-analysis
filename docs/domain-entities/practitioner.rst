@@ -3,7 +3,7 @@ Practitioner
 
 Define entity....
 
-**GitHub issue**: `issue <https://github.com/phenopackets/domain-analysis/issues/20>`_
+**GitHub issue**: `ISSUE <https://github.com/phenopackets/domain-analysis/issues/20>`_
 
 Phenopackets representation
 ++++++++++++++++++++++++++++++

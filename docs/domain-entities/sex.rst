@@ -3,7 +3,7 @@ Sex
 
 PP Definition: Observed (phenotypic) apparent sex of the individual.
 
-**GitHub issue**: `issue <https://github.com/phenopackets/domain-analysis/issues/9>`_
+**GitHub issue**: `ISSUE <https://github.com/phenopackets/domain-analysis/issues/9>`_
 
 Phenopackets representation
 ++++++++++++++++++++++++++++++

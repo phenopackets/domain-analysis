@@ -3,7 +3,7 @@ Specimen
 
 Define entity....
 
-**GitHub issue**: `issue <https://github.com/phenopackets/domain-analysis/issues/21>`_
+**GitHub issue**: `ISSUE <https://github.com/phenopackets/domain-analysis/issues/21>`_
 
 Phenopackets representation
 ++++++++++++++++++++++++++++++

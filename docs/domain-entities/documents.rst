@@ -6,7 +6,7 @@ This represents any type of document or file that is clinically relevant. Howeve
 -   A phenopacket message, object, document, etc. in its native format.
 -   Other...
 
-**GitHub issue**: `issue <https://github.com/phenopackets/domain-analysis/issues/13>`_
+**GitHub issue**: `ISSUE <https://github.com/phenopackets/domain-analysis/issues/13>`_
 
 Phenopackets representation
 ++++++++++++++++++++++++++++++

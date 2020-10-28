@@ -3,7 +3,7 @@ Individual
 
 This is an individual person in the domain independent of any role in any clinical or research setting. It subsumes the patient role.
 
-**GitHub issue**: `issue 7 <https://github.com/phenopackets/domain-analysis/issues/7>`_
+**GitHub issue**: `ISSUE <https://github.com/phenopackets/domain-analysis/issues/7>`_
 
 Phenopackets representation
 ++++++++++++++++++++++++++++++

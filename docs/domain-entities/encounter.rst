@@ -3,7 +3,7 @@ Encounter or visit
 
 An individual encounter or visit for an individual to obtain related services. It is the context for related information.
 
-**GitHub issue**: `issue <https://github.com/phenopackets/domain-analysis/issues/14>`_
+**GitHub issue**: `ISSUE <https://github.com/phenopackets/domain-analysis/issues/14>`_
 
 Phenopackets representation
 ++++++++++++++++++++++++++++++

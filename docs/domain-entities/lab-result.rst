@@ -3,7 +3,7 @@ Laboratory result
 
 Define entity....
 
-**GitHub issue**: `issue <https://github.com/phenopackets/domain-analysis/issues/19>`_
+**GitHub issue**: `ISSUE <https://github.com/phenopackets/domain-analysis/issues/19>`_
 
 Phenopackets representation
 ++++++++++++++++++++++++++++++

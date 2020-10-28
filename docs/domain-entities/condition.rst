@@ -3,7 +3,7 @@ Condition, diagnosis, etc.
 
 Define entity....
 
-**GitHub issue**: `issue <https://github.com/phenopackets/domain-analysis/issues/17>`_
+**GitHub issue**: `ISSUE <https://github.com/phenopackets/domain-analysis/issues/17>`_
 
 Phenopackets representation
 ++++++++++++++++++++++++++++++

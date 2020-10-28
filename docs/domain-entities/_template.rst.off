@@ -3,7 +3,7 @@ _template file
 
 Copy this file and name it in the same directory according to the entity name. Replace this text and the "_template file" title with your own tile and a description of the domain entity. The "===" line has to be at least as long as your title.
 
-**GitHub issue**: place a link to the created GH issue for discussion like this:  `issue <https://github.com/phenopackets/domain-analysis/issues/7>`_
+**GitHub issue**: place a link to the created GH issue for discussion like this:  `ISSUE <https://github.com/phenopackets/domain-analysis/issues/7>`_
 
 Phenopackets representation
 ++++++++++++++++++++++++++++++
