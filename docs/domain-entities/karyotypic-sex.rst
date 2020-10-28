@@ -3,7 +3,7 @@ Karyotypic sex
 
 Karyotypic sex (KS) is the determination of sex chromosomes in an individual.
 
-**GitHub issue**: place a link to the created GH issue for discussion like this:  `issue <https://github.com/phenopackets/domain-analysis/issues/7>`_
+**GitHub issue**: `issue <https://github.com/phenopackets/domain-analysis/issues/7>`_
 
 Phenopackets representation
 ++++++++++++++++++++++++++++++

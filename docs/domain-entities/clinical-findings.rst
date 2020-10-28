@@ -3,7 +3,7 @@ Clinical findings
 
 Define entity....
 
-**GitHub issue**: `issue <https://github.com/phenopackets/domain-analysis/issues/?>`_
+**GitHub issue**: `issue <https://github.com/phenopackets/domain-analysis/issues/15>`_
 
 Phenopackets representation
 ++++++++++++++++++++++++++++++
