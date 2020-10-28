@@ -38,3 +38,11 @@ Proposed Core IG representation
 +++++++++++++++++++++++++++++++++
 
 Discuss at an appropriate level of detail to support the mapping work. The description here is not meant to be very low level mapping. The mapping workflow and mapping sheet (described soon) will capture that content. The description here is at a conceptual level. The mapping workflow will provide and support implementation level details.
+
+This is how to show JSON examples:
+
+.. code-block:: JSON
+
+   {
+     "key": "value"
+   }
