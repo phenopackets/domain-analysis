@@ -30,7 +30,7 @@ The language regarding the `use of Observation components <https://www.hl7.org/f
 Phenopackets IG representation
 ++++++++++++++++++++++++++++++++
 
-It uses FHIR Observation however it models the various types of PhenotypicFeature qualifiers with Extension profiles instead of using the Observation components approach.
+It uses FHIR Observation however it models the various types of PhenotypicFeature qualifiers with Extension profiles instead of using the Observation components approach, as `shown here <https://aehrc.github.io/fhir-phenopackets-ig/StructureDefinition-PhenotypicFeature.html>`_
 
 Proposed Core IG representation
 +++++++++++++++++++++++++++++++++
