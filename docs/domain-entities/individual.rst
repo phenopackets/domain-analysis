@@ -10,12 +10,16 @@ Phenopackets representation
 
 The Phenopackets specification uses `Individual <https://docs.google.com/document/d/1LkfS7RnqMCXRiioX7hy8ZVVcXtbnDJcinGxtEfYIZBI/edit#heading=h.hs17po7371ca>`_ to represent a patient (the proband of the Phenopacket), but similar concepts within the specification are used to represent people in other ways. The model for this element is not focused on capturing encounters, providers, etc. and there is more focus on person to person relationships to aid interpretation of genetic data. `This language <https://docs.google.com/document/d/1LkfS7RnqMCXRiioX7hy8ZVVcXtbnDJcinGxtEfYIZBI/edit?disco=AAAAKVBBS3E>`_ supports this interpretation and the attributes also support this structure.
 
+Phenopackets captures both sex and karyotypic sex in this entity.
+
 FHIR representation
 +++++++++++++++++++++
 
-FHIR represents the concept of individuals in many ways. The core Patient resource entity represents the role of a person as a patient in a healthcare organization, rather than representing an individual. The language that supports this interpretation is `here <https://docs.google.com/document/d/1EVzNmeWuCGl7G3Gk535pTqzSdo356Ci9GlZ3nHiAuM0/edit?disco=AAAAHDCXnWk>`_, `here <https://docs.google.com/document/d/1EVzNmeWuCGl7G3Gk535pTqzSdo356Ci9GlZ3nHiAuM0/edit?disco=AAAAHDCXnWo>`_ and few other places in the Patient documentation page.
+FHIR represents the concept of individuals in many ways. The core Patient resource entity represents the role of a person as a patient in a healthcare organization, rather than representing an individual. The language that supports this interpretation is `here <https://docs.google.com/document/d/1EVzNmeWuCGl7G3Gk535pTqzSdo356Ci9GlZ3nHiAuM0/edit?disco=AAAAHDCXnWk>`_ and `here <https://docs.google.com/document/d/1EVzNmeWuCGl7G3Gk535pTqzSdo356Ci9GlZ3nHiAuM0/edit?disco=AAAAHDCXnWo>`_, and in few other places in the Patient documentation page.
 
-FHIR also has a resource that represents `Person <https://docs.google.com/document/d/1mkEU5A4KLSFOLvlplHl47IW_nI-LGUtU3BJOfENzCEY/edit>`_, which is meant to be a role-neutral representation of an individual. See also `RelatedPerson <https://docs.google.com/document/d/11M-PLnnT2tYgy5AbVCWx58ZWc-0P879SqM8FhqSvHpw/edit>`_, although that resource is likely less relevant to this specification.
+FHIR also has a resource that represents `Person <https://www.hl7.org/fhir/person.html>`_, which is meant to be a role-neutral representation of an individual. See also `RelatedPerson <https://www.hl7.org/fhir/relatedperson.html>`_, although this resource is less relevant to our current use cases.  Also see `this section <https://www.hl7.org/fhir/patient.html#linking>`_.
+
+The FHIR Patient documentation provides good guidance for issues related to sex, gender, and clinically based sex and gender facts. See `this section <https://www.hl7.org/fhir/patient.html#gender>`_.
 
 Phenopackets IG representation
 ++++++++++++++++++++++++++++++++

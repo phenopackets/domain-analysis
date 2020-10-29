@@ -11,10 +11,11 @@ Although the analysis in the following pages should be based on the domain and h
 \*Any workflow related comments can be `posted here <https://github.com/phenopackets/domain-analysis/issues/11>`_
 
 ..  toctree::
-    :caption: Entity pages
+    :caption: Entities
     :titlesonly:
     :glob:
 
+    domain-entities/year-two
     domain-entities/*
 
 \*Add a page to the */domain-entities* folder and it will appear in the above list.
