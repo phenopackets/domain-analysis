@@ -1,7 +1,7 @@
 Clinical impression
 ==============================
 
-This is a high level clinical assessment and workflow/summary related entity. It is distinct but closely related to the more granular observations, diagnosis, investigations entities.
+This is an entity related to a high level clinical assessment and workflow/summary. It is distinct from but closely related to the more granular observations, diagnoses, investigations entities.
 
 FHIR does a fairly good job defining and modeling this entity with `the ClinicalImpression resource <https://www.hl7.org/fhir/clinicalimpression.html>`_.
 
