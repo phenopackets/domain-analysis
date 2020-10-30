@@ -8,7 +8,7 @@ An individual encounter or visit for an individual to obtain related services. I
 Phenopackets representation
 ++++++++++++++++++++++++++++++
 
-N/A
+This concept is not represented in the Phenopackets specification, but it is required to support Use Case 2 (UC2).
 
 FHIR representation
 +++++++++++++++++++++
