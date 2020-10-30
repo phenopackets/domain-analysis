@@ -38,9 +38,9 @@ Proposed Core IG representation
 We will:
 
 - Represent PhenotypicFeature with Observation. One to one instance.
-- Represent PhenotypicFeature.type as .code and follow the item 2 `FHIR guidance here <https://www.hl7.org/fhir/observation.html#guidance>`_
+- Represent PhenotypicFeature.type as .code and follow the item 2 in the `FHIR guidance here <https://www.hl7.org/fhir/observation.html#guidance>`_, where .code captures the clinical finding (phenotypic feature, in this case)
 - Represent PhenotypicFeature.severity and .modifier as Observation.component entries as justified by `this language <https://www.hl7.org/fhir/observation.html#gr-comp>`_ as opposed to needing Extension profiles.
-- Possibly represent PhenotypicFeature.onset as a component. The Observation examples page has an example of an observation that has time built into the code. The Apgar score examples. We can argue that our PhenotypicFeature are time dependent but we don't have onset precomposed into our coding system. However, a PhenotypicFeature will post compose the onset indexed phenotype with Observation components. We believe there are several value[x] available to accommodate the representation of onset.
+- Possibly represent PhenotypicFeature.onset as a component. The Observation examples page has an example of an observation that has time built into (pre-coordinated with) the code (the Apgar score). We can argue that our PhenotypicFeature are time dependent but we don't have onset precomposed into our coding system. However, a PhenotypicFeature will post compose the onset indexed phenotype with Observation components. We believe there are several value[x] available to accommodate the representation of onset.
 
 Given that the PhenotypicFeature.severity is a subset of codes for .modifier, we can represent this with a single modifier component profile that can be instantiated as many times as needed to add the needed qualifiers. The value set for .code will be a small set of very different types of qualifiers, and the value set for .valueCodeableConcept will be the subtree of those codes.
 
