@@ -10,7 +10,7 @@ This represents any type of observation of clinically relevant things or situati
 Phenopackets representation
 ++++++++++++++++++++++++++++++
 
-The Phenopackets schema represents phenotypic features with the `PhenotypicFeature <https://phenopackets-schema.readthedocs.io/en/latest/phenotype.html>`_ entity. It captures various aspects of a clinical characteristic of a subject, usually an abnormality. It also dedicates few fields to capture different types of qualifiers including negation, severity, and phenotype specific qualifiers. There is also a representation of the age of onset of the feature.
+The Phenopackets schema represents phenotypic features with the `PhenotypicFeature <https://phenopackets-schema.readthedocs.io/en/latest/phenotype.html>`_ entity. It captures various aspects of a clinical characteristic of a subject, usually an abnormality. It also defines a few fields to capture different types of qualifiers including negation, severity, and phenotype-specific qualifiers. There is also a representation of the age of onset of the phenotypic feature.
 
 For our current exome analysis use case we area primarily concerned with capturing the type of a phenotype and a positive vs negative assertion. Other aspects of the Phenopackets PhenotypicFeature will be addressed based on future driver use cases.
 
@@ -21,7 +21,7 @@ FHIR representation
 
 This will be a FHIR `Observation <https://www.hl7.org/fhir/observation.html>`_. It captures phenotypes and other sorts of observations.
 
-A FHIR Observation, in its most general sense, is a key/value pair with possible key/value components to capture parts of the overall observation.
+A FHIR Observation, in its most general sense, is a key/value pair with additional optional key/value components to capture parts of the overall observation.
 
 The use of this very flexible key/value model can lead to several patterns and this complicates interoperability. The FHIR specification recognizes this and give guidance as `described here <https://www.hl7.org/fhir/observation.html#code-interop>`_. 
 
