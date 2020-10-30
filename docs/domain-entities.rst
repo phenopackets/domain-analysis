@@ -15,7 +15,7 @@ Although the analysis in the following pages should be based on the domain and h
     :titlesonly:
     :glob:
 
-    domain-entities/year-two
+    domain-entities/future
     domain-entities/*
 
 \*Add a page to the */domain-entities* folder and it will appear in the above list.
