@@ -8,7 +8,7 @@ Sending a Laboratory request for genetic analysis.
 Phenopackets representation
 ++++++++++++++++++++++++++++++
 
-N/A
+N/A. This concept is not represented by Phenopackets, but it is part of the driver Use Cases for this project.
 
 FHIR representation
 +++++++++++++++++++++
